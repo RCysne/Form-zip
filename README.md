@@ -34,3 +34,7 @@ Insira o CEP "01001-000" no campo de busca e clique em "Pesquisar". O resultado 
 Contribuição
 Contribuições são bem-vindas! Sinta-se à vontade para fazer um fork deste repositório e enviar pull requests com melhorias.
 
+
+![Cep-01](https://github.com/RCysne/Form-zip/blob/main/cep-01.png)
+![Cep-02](https://github.com/RCysne/Form-zip/blob/main/cep-02.png)
+
