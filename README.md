@@ -21,7 +21,7 @@ API ViaCEP: Para obter os dados do endereço a partir do CEP.
 
 Como Utilizar
 Clone este repositório:
-git clone https://github.com/seu-usuario/consulta-cep.git
+git clone https://github.com/RCysne/Form-zip.git
 Abra o arquivo index.html no seu navegador.
 
 Na interface da aplicação, insira um CEP no campo de busca e clique no próximo campo. A aplicação exibirá o endereço correspondente ao CEP.
