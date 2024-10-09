@@ -1,4 +1,4 @@
-Consulta CEP
+# Consulta CEP
 Este é um projeto simples de uma aplicação para consulta de CEP desenvolvida com HTML, CSS e JavaScript. A aplicação consome a API da ViaCEP
 e permite ao usuário inserir um CEP para obter as seguintes informações:
 
